@@ -14,3 +14,5 @@ for j in range(len(s_new)):
             break
 if s_p == []:
     print('yes')
+else:
+    print('no')
